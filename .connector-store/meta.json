@@ -1,0 +1,19 @@
+{
+    "name": "Execution JSON",
+    "owner": "WSO2",
+    "category": "Siddhi Execution",
+    "documentationUrl": "https://wso2-extensions.github.io/siddhi-execution-json/api/latest/",
+    "description": "The siddhi-execution-json extension is an extension to Siddhi that provides a rich set of capabilities to retrieve data from JSONs and inserting/modifying elements in JSONs using Siddhi streams.",
+    "status": "Active",
+    "labels": [
+        "siddhi",
+        "json",
+        "siddhi-execution"
+    ],
+    "releases": [
+        {
+            "tagName": "1.1.1",
+            "products": []
+        }
+    ]
+}
